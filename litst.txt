@@ -1,0 +1,12 @@
+'append', ok 
+ 'clear', ok
+ 'copy', ok 
+ 'count', ok 
+ 'extend', ok 
+ 'index', ok 
+ 'insert', ok 
+ 'pop', ok 
+ 'remove', ok 
+ 'reverse', ok 
+ 
+ 'sort', ok
